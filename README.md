@@ -1,4 +1,4 @@
-CDA3103C Project
-Sabrinc Centeno Lopez
-Irene Valle Urriolla
-Alexie Fisher
+CDA3103C Project \n
+Sabrina Centeno Lopez \n
+Irene Valle Urriolla \n
+Alexie Fisher \n
